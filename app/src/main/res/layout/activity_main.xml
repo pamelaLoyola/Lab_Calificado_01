@@ -19,7 +19,7 @@
 
             <ImageView
                 android:layout_width="@dimen/foto_width"
-                android:layout_height="wrap_content"
+                android:layout_height="@dimen/foto_height"
                 android:src="@drawable/mujer"
                 android:adjustViewBounds="true"
                 android:layout_gravity="center"
@@ -41,7 +41,6 @@
                 android:text="@string/main_cargo_mujer"
                 android:textColor="@color/color_text_cargo"
                 android:textSize="@dimen/cargo_nombre_size"
-                android:textStyle="bold"
                 android:gravity="center"/>
 
             <ImageView
