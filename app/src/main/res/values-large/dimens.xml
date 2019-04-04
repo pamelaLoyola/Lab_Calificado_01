@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="foto_width">300dp</dimen>
+    <dimen name="foto_width">250dp</dimen>
+    <dimen name="foto_height">350dp</dimen>
     <dimen name="nombre_size">45sp</dimen>
     <dimen name="cargo_nombre_size">40sp</dimen>
     <dimen name="logo_width">250dp</dimen>

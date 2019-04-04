@@ -88,6 +88,7 @@
             android:layout_height="@dimen/barra_height"
             android:src="@drawable/barras"
             android:layout_alignParentBottom="true"
+            android:scaleType="centerCrop"
             android:layout_gravity="center"/>
     </LinearLayout>
 

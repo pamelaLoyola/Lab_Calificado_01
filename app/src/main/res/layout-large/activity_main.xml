@@ -19,11 +19,11 @@
 
     <ImageView
         android:layout_width="@dimen/foto_width"
-        android:layout_height="@dimen/foto_height"
-        android:src="@drawable/mujer"
-        android:adjustViewBounds="true"
+        android:layout_height=  "@dimen/foto_height"
         android:layout_gravity="center"
-        android:scaleType="centerCrop"/>
+        android:scaleType="centerCrop"
+        android:src="@drawable/mujer" />
+
 
     <TextView
         android:layout_width="match_parent"
