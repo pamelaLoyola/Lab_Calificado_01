@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab_Calificado_01</string>
+    <string name="main_nombre_mujer">SARAH ADAMS</string>
+    <string name="main_cargo_mujer">GERENCIA</string>
+    <string name="main_nombre_hombre">DANIEL JONES</string>
+    <string name="main_cargo_hombre">MARKETING</string>
+    <string name="main_txt_dni">DNI: 72411287</string>
+    <string name="main_txt_celular">Celular: 948 543 049</string>
+    <string name="main_txt_correo">sarah.adams@gmail.com</string>
+</resources>

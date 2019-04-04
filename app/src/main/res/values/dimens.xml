@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="foto_width">180dp</dimen>
+    <dimen name="nombre_size">35sp</dimen>
+    <dimen name="cargo_nombre_size">30sp</dimen>
+    <dimen name="logo_width">200dp</dimen>
+    <dimen name="logo_height">100dp</dimen>
+    <dimen name="barra_height">150dp</dimen>
+    <dimen name="barra_width">200dp</dimen>
+    <dimen name="margin_bottom_logo">10dp</dimen>
+    <dimen name="main_sub_size">20dp</dimen>
+    <dimen name="foto_height">400dp</dimen>
+</resources>
