@@ -44,12 +44,11 @@
                 android:textStyle="bold"
                 android:gravity="center"/>
 
-        <ImageView
-            android:layout_width="@dimen/barra_width"
-            android:layout_height="@dimen/barra_height"
-            android:src="@drawable/barras"
-            android:layout_alignParentBottom="true"
-            android:layout_gravity="center"/>
+            <ImageView
+                android:layout_width="@dimen/barra_width"
+                android:layout_height="@dimen/barra_height"
+                android:src="@drawable/barras"
+                android:layout_gravity="center"/>
 
 </LinearLayout>
 
